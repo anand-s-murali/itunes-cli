@@ -5,7 +5,7 @@ Command line interface for MacOS
 Being on a mac, I always had a lot of trouble getting the [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) player to work for me. So I decided to create my own.
 
 # What it Looks Like:
-<img width="1440" alt="screenshot" src="https://user-images.githubusercontent.com/58267405/102382676-b2aa0d80-3f98-11eb-961d-abcfae0bdd2d.png">
+<img width="1440" alt="Screen Shot 2020-12-20 at 12 21 56 PM" src="https://user-images.githubusercontent.com/58267405/102719775-16487980-42be-11eb-918e-1a9842415ca4.png">
 
 # Build
 1. Clone or download this project
